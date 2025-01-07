@@ -37,3 +37,6 @@ jobs:
 
       - name: ror kencan
         run: date
+
+      - name: menjalankan file python
+        run: python nama.py
